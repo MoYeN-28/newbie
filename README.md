@@ -1,2 +1,2 @@
 # newbie
-cth
+bukan contoh loh
